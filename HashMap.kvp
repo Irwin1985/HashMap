@@ -1,0 +1,4 @@
+name = "HashMap"
+type = "prg"
+repo = "https://raw.githubusercontent.com/Irwin1985/HashMap/master/src/HashMap.prg"
+version = "0.0.1"
